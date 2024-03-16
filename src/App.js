@@ -1,7 +1,7 @@
 /* global SillyTavern */
 
 function App() {
-    handleClick = () => {
+    function handleClick() {
         alert(`Hello, ${SillyTavern.getContext().name1}!`);
     }
 
