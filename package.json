@@ -32,7 +32,7 @@
     "@babel/preset-react": "^7.23.3",
     "babel-loader": "^9.1.3",
     "eslint-config-react-app": "^7.0.1",
-    "terser-webpack-plugin": "^5.3.10",
+    "terser-webpack-plugin": "^5.3.17",
     "webpack-cli": "^5.1.4"
   }
 }
